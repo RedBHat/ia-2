@@ -1,3 +1,3 @@
 # intelligence artificielle
 
-des projet de ia avec utilisation de python est des repertoire plus facile avec un interface de streamlit il faut crees un envirenement avec anaconda prompt
+"Des projets d'IA utilisant Python et des répertoires plus faciles avec une interface Streamlit nécessitent la création d'un environnement avec Anaconda Prompt.
